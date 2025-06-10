@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://id.hollywoodbets.net/?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3Dpremium%26redirect_uri%3Dhttps%253A%252F%252Fwww.hollywoodbets.net%26response_type%3Dcode%26scope%3Dopenid%2520offline_access%2520api%26state%3D7f8636d3c8f04504a514fa33169f20c8%26code_challenge%3DXn78TEKY_iBkzIezSf8WFWpt9EHOTgJqUdboSsKPHp0%26code_challenge_method%3DS256%26response_mode%3Dquery -O1 "C:\My Web Sites\holly" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Tue, 10 Jun 2025 09:20:03, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

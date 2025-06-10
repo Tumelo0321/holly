@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+id.hollywoodbets.net	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.VyLW6ORzMgk	CfDJ8NbnzuGHQgNGtoCpi5QbIrgLBfn5Ipmmiv_NNmZBc_RKXZl6gyvsGlKs1KZAh4A6_PUeoHR5LVX_aHAAU5xdXOqbnkbEUswiwplCd5LZkZj9kU0_X7d67g4miFyPTeoV-5iIKVawGPIsSO-INquLS-U
+id.hollywoodbets.net	TRUE	/	FALSE	1999999999	samesite	strict
+.hollywoodbets.net	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_4_sn_F3BE7229C99F28E7590F888815A77B7C_perc_100000_ol_0_mul_1_app-3A0ea7d60f1b33a372_0
+id.hollywoodbets.net	TRUE	/	FALSE	1999999999	LayoutPreferenceHost	http%3A%2F%2Fid.hollywoodbets.net%2F
+id.hollywoodbets.net	TRUE	/	FALSE	1999999999	fff756f3bf2f48e60d8848b3f6d8187a	956efed09fa09be493961f4317c164cf
+id.hollywoodbets.net	TRUE	/	FALSE	1999999999	SameSite	None
+
